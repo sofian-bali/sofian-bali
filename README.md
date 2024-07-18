@@ -34,7 +34,7 @@
 
 <p>
   <a href="https://github.com/sofian-bali">
-    <img src="https://github-readme-stats.vercel.app/api?username=sofian-bali&show_icons=true&theme=github_dark_dimmed&hide=stars" alt="Statistiques GitHub de Sofian Bali"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sofian-bali&show_icons=true&theme=github_dark_dimmed&hide=stars" alt="Statistiques GitHub de Sofian Bali" style="height: 150px;/>
   </a>
   <a href="https://github.com/sofian-bali">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofian-bali&layout=compact&theme=github_dark_dimmed" alt="Langages les plus utilisés sur GitHub" style="height: 150px;"/>
