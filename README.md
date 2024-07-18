@@ -54,4 +54,4 @@
 ## 🤝 Restons en contact !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofian-bali)
-N'hésitez pas à me contacter pour discuter de tout ce qui concerne le développement web, le design ou même du dernier match de football ou du dernier combat de MMA ! ⚽ <img src="https://cdn-icons-png.flaticon.com/512/921/921625.png" style="width: 3.45%;"/>
+N'hésitez pas à me contacter pour discuter de tout ce qui concerne le développement web, le design ou même du dernier match de football ou du dernier combat de MMA ! ⚽ <img src="https://cdn-icons-png.flaticon.com/128/921/921676.png" style="width:19px;"/>
