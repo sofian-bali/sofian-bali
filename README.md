@@ -32,7 +32,7 @@
 
 ## 📈 Statistiques GitHub
 
-<p>
+<p style="display:flex; justify-content:space-around;">
   <a href="https://github.com/sofian-bali">
     <img src="https://github-readme-stats.vercel.app/api?username=sofian-bali&show_icons=true&theme=github_dark_dimmed&hide=stars" alt="Statistiques GitHub de Sofian Bali" style="height: 150px;/>
   </a>
@@ -54,4 +54,4 @@
 ## 🤝 Restons en contact !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofian-bali)
-N'hésitez pas à me contacter pour discuter de tout ce qui concerne le développement web, le design ou même du dernier match de football ou du dernier combat de MMA ! ⚽ <img src="https://cdn-icons-png.flaticon.com/512/921/921625.png" width="3.45%"/>
+N'hésitez pas à me contacter pour discuter de tout ce qui concerne le développement web, le design ou même du dernier match de football ou du dernier combat de MMA ! ⚽ <img src="https://cdn-icons-png.flaticon.com/512/921/921625.png" style="width='3.45%';"/>
